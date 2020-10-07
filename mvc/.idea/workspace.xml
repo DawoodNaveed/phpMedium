@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0d67de7-067b-4903-9e77-3a257d42bbab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1iRnjmXZwEe8N82kFhJRUyaXGTi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0d67de7-067b-4903-9e77-3a257d42bbab" name="Default Changelist" comment="" />
+      <created>1601879410090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601879410090</updated>
+      <workItem from="1601879411173" duration="64305000" />
+      <workItem from="1602049109972" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="782" y="111" width="637" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601985456149">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="782" y="111" width="637" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.985@0.27.1920.985" timestamp="1601985456149" />
+    <state x="872" y="234" width="399" height="156" key="NewPhpFileDialog" timestamp="1601968604346">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="872" y="234" width="399" height="156" key="NewPhpFileDialog/0.27.1920.985@0.27.1920.985" timestamp="1601968604346" />
+    <state x="449" y="154" width="1022" height="737" key="SettingsEditor" timestamp="1601879415138">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="449" y="154" width="1022" height="737" key="SettingsEditor/0.27.1920.985@0.27.1920.985" timestamp="1601879415138" />
+  </component>
+</project>

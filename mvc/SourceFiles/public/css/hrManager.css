@@ -1,0 +1,41 @@
+body {
+    background-color: darkgrey;
+}
+a{
+    border-radius: 10px;
+    padding: 30px;
+    background: black;
+    color: aqua;
+    text-decoration:none;
+}
+#a1{
+    font-family: bold;
+    position: relative;
+    top:100px;
+    left:600px;
+}
+#a2{
+    font-family: bold;
+    position: relative;
+    top:200px;
+    left:600px;
+}
+#a3{
+    font-family: bold;
+    position: relative;
+    top:300px;
+    left:600px;
+}
+#a4{
+    font-family: bold;
+    position: relative;
+    top:400px;
+    left:600px;
+}
+#a5{
+
+
+    position: relative;
+    top:500px;
+    left:600px;
+}
